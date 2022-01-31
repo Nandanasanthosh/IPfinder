@@ -1,0 +1,24 @@
+.first{
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(163, 221, 223);
+  }
+  
+  .inner{
+    text-align: center;
+    height: 50vh;
+    width: 40vh;
+    border: 5px solid rgb(233, 191, 186);
+    padding: 70 px;
+    background-color: rgb(219, 5, 5);
+  }
+
+  .inner h1{
+    color: rgb(238, 241, 8);
+    text-align: center;
+  }
+  
+  
